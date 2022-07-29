@@ -1,0 +1,19 @@
+.dialog {
+  margin: 10px;
+}
+
+.dialog a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a.active {
+    font-weight: bold;
+    /* color: gold; */
+    /* background-color: darkgrey; */
+  }
+
+  .dialog img {
+    width: 50px;
+    border-radius: 50px;
+  }

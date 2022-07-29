@@ -1,0 +1,9 @@
+.item {
+  margin-left: 5px;
+  margin-top: 20px;
+}
+
+.item img {
+  width: 70px;
+  border-radius: 50px;
+}

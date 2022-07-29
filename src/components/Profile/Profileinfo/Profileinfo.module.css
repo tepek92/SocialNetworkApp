@@ -1,0 +1,20 @@
+.presswall {
+  border-radius: 20px;
+  padding: 15px;
+  width: 960px;
+}
+
+.avatar {
+  width: 70px;
+  border-radius: 50px;
+  margin-left: 15px;
+}
+
+.link a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link a:hover {
+  background-color: rgb(91, 183, 152);
+}
