@@ -4,28 +4,28 @@ self.__precacheManifest = [
     "url": "/SocialNetworkApp/static/js/0.9ed79ba5.chunk.js"
   },
   {
-    "revision": "08b4fbf443002cae757a",
+    "revision": "beac44386e6a928adbf1",
     "url": "/SocialNetworkApp/static/css/main.57804c56.chunk.css"
   },
   {
-    "revision": "08b4fbf443002cae757a",
-    "url": "/SocialNetworkApp/static/js/main.c837bf61.chunk.js"
+    "revision": "beac44386e6a928adbf1",
+    "url": "/SocialNetworkApp/static/js/main.6858f79a.chunk.js"
   },
   {
-    "revision": "cea9ead2fe63927e48b6",
-    "url": "/SocialNetworkApp/static/js/runtime~main.8a1ebe02.js"
+    "revision": "2f57e7c968296a9beeb7",
+    "url": "/SocialNetworkApp/static/js/runtime~main.113485d5.js"
   },
   {
-    "revision": "1a4236dba950d03e4a32",
-    "url": "/SocialNetworkApp/static/js/3.df4d20b6.chunk.js"
+    "revision": "3af70093e5e090df2ec5",
+    "url": "/SocialNetworkApp/static/js/3.6e04095e.chunk.js"
   },
   {
-    "revision": "756bd0fe6b38328d93c5",
+    "revision": "73e04a345b64b0268874",
     "url": "/SocialNetworkApp/static/css/4.8828163e.chunk.css"
   },
   {
-    "revision": "756bd0fe6b38328d93c5",
-    "url": "/SocialNetworkApp/static/js/4.0c58efcb.chunk.js"
+    "revision": "73e04a345b64b0268874",
+    "url": "/SocialNetworkApp/static/js/4.51ce56f4.chunk.js"
   },
   {
     "revision": "0629873979cd50db1c46",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/SocialNetworkApp/static/js/6.22adb18d.chunk.js"
   },
   {
-    "revision": "bd3e0a488eeb7c48071b",
+    "revision": "c58aa3084686f5bbb03e",
     "url": "/SocialNetworkApp/static/css/7.634057f2.chunk.css"
   },
   {
-    "revision": "bd3e0a488eeb7c48071b",
-    "url": "/SocialNetworkApp/static/js/7.47d1a0c3.chunk.js"
+    "revision": "c58aa3084686f5bbb03e",
+    "url": "/SocialNetworkApp/static/js/7.113fc640.chunk.js"
   },
   {
     "revision": "8079189a4c70dbe85aa8",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/SocialNetworkApp/static/media/presswall.1ad3742e.jpg"
   },
   {
-    "revision": "6a83344e62faf3627beed1042f6aab98",
+    "revision": "1ec2b3e1aba5e3f3367c56ee52311611",
     "url": "/SocialNetworkApp/index.html"
   }
 ];
