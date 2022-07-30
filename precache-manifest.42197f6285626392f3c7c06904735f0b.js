@@ -1,39 +1,39 @@
 self.__precacheManifest = [
   {
-    "revision": "8f26d37ad5eb8d4a9f91",
-    "url": "/SocialNetworkApp/static/js/0.9ed79ba5.chunk.js"
+    "revision": "d46f654870ee19aafdd6",
+    "url": "/SocialNetworkApp/static/js/0.23390fd5.chunk.js"
   },
   {
-    "revision": "beac44386e6a928adbf1",
+    "revision": "2def52e065bbbfc35c8e",
     "url": "/SocialNetworkApp/static/css/main.57804c56.chunk.css"
   },
   {
-    "revision": "beac44386e6a928adbf1",
-    "url": "/SocialNetworkApp/static/js/main.6858f79a.chunk.js"
+    "revision": "2def52e065bbbfc35c8e",
+    "url": "/SocialNetworkApp/static/js/main.d0c12390.chunk.js"
   },
   {
-    "revision": "2f57e7c968296a9beeb7",
-    "url": "/SocialNetworkApp/static/js/runtime~main.113485d5.js"
+    "revision": "da67208bb439bf50fbf9",
+    "url": "/SocialNetworkApp/static/js/runtime~main.cbd2a0f1.js"
   },
   {
-    "revision": "3af70093e5e090df2ec5",
-    "url": "/SocialNetworkApp/static/js/3.6e04095e.chunk.js"
+    "revision": "2912562f6e3abe14efde",
+    "url": "/SocialNetworkApp/static/js/3.4c2a18a2.chunk.js"
   },
   {
-    "revision": "73e04a345b64b0268874",
+    "revision": "ee8cfbdf6edc47a8bad9",
     "url": "/SocialNetworkApp/static/css/4.8828163e.chunk.css"
   },
   {
-    "revision": "73e04a345b64b0268874",
-    "url": "/SocialNetworkApp/static/js/4.51ce56f4.chunk.js"
+    "revision": "ee8cfbdf6edc47a8bad9",
+    "url": "/SocialNetworkApp/static/js/4.93409f59.chunk.js"
   },
   {
-    "revision": "0629873979cd50db1c46",
-    "url": "/SocialNetworkApp/static/css/5.87365fef.chunk.css"
+    "revision": "5512eb0c8364456cbd27",
+    "url": "/SocialNetworkApp/static/css/5.6c6ab0e8.chunk.css"
   },
   {
-    "revision": "0629873979cd50db1c46",
-    "url": "/SocialNetworkApp/static/js/5.59cbb2e1.chunk.js"
+    "revision": "5512eb0c8364456cbd27",
+    "url": "/SocialNetworkApp/static/js/5.bd49f5db.chunk.js"
   },
   {
     "revision": "6ab2b3b1aadbe2d81754",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/SocialNetworkApp/static/js/6.22adb18d.chunk.js"
   },
   {
-    "revision": "c58aa3084686f5bbb03e",
+    "revision": "20029f9735af08223a35",
     "url": "/SocialNetworkApp/static/css/7.634057f2.chunk.css"
   },
   {
-    "revision": "c58aa3084686f5bbb03e",
-    "url": "/SocialNetworkApp/static/js/7.113fc640.chunk.js"
+    "revision": "20029f9735af08223a35",
+    "url": "/SocialNetworkApp/static/js/7.c4bfdb80.chunk.js"
   },
   {
     "revision": "8079189a4c70dbe85aa8",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/SocialNetworkApp/static/media/presswall.1ad3742e.jpg"
   },
   {
-    "revision": "1ec2b3e1aba5e3f3367c56ee52311611",
+    "revision": "7168815861d6ae0ab6102f2027aee8a3",
     "url": "/SocialNetworkApp/index.html"
   }
 ];
