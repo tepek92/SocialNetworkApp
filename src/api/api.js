@@ -22,6 +22,11 @@ export const profileAPI = {
     getProfile: (id) => instans.get(`profile/${id}`).then((response) => response.data),
     getStatus: (id) => instans.get(`profile/status/${id}`).then((response) => response.data),
     updateStatus: (status) => instans.put(`profile/status`, {status: status}).then((response) => response.data),
+    updatePhoto: (photo) =>  {
+        const formData = new FormData();
+        formData.append("image", photo);
+        return instans.put(`profile/photo`, formData, {headers: {'Content-Type': 'multipart/form-data'}}).then((response) => response.data)
+    }
 }
 
 export const authAPI = {

@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import "./App.css";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 import store from "./redux/reduxStore";
 
 import Navbar from "./components/Navbar/Navbar";
@@ -71,9 +71,9 @@ const AppProvider = (props) => {
   return (
     <React.StrictMode>
       <Provider store={store}>
-        <BrowserRouter>
+        <HashRouter>
           <AppContainer />
-        </BrowserRouter>
+        </HashRouter>
       </Provider>
     </React.StrictMode>
   );

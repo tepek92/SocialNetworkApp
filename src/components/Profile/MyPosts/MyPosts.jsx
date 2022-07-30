@@ -10,15 +10,11 @@ const MyPosts = (props) => {
     <Post message={p.message} likeCount={p.likeCount} />
   ));
 
-  
-
   const onSubmit = (formData) => {
     console.log(formData);
     props.addNewPost(formData.newpost);
   }
 
-    console.log("MYpost rerender");
-  
   return (
     <div className={s.myPosts}>
       My posts

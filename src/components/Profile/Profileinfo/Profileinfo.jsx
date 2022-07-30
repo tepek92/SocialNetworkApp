@@ -9,6 +9,15 @@ const Profileinfo = (props) => {
   if (!props.userProfile) {
     return <Preloader />;
   }
+
+  const addFile = (e) => {
+    if(e.target.files.length !== 0) {
+      console.log(e.target.files);
+      props.saveNewPhoto(e.target.files[0]);
+    }
+  } 
+
+  debugger
   return (
     <div>
       <div>
@@ -20,7 +29,8 @@ const Profileinfo = (props) => {
           className={s.avatar}
           src={props.userProfile.photos.large || avatar}
           alt="avatar"
-        />
+        /> <br/>
+        {props.isOwner && <input onChange={addFile} type={"file"}/>}
         <ProfileStatus updateUserStatus={props.updateUserStatus} userStatus={props.userStatus} />
         <br/>
         <div>Место работы:
