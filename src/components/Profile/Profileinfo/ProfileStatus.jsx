@@ -3,7 +3,6 @@ import { useState } from "react";
 // import s from "./Profileinfo.module.css";
 
 const ProfileStatus = (props) => {
-
   // С помощью хука useState создаю "локальный стейт"
   // с переменными и функциями меняющими эти переменные"
   let [editMode, setEditMode] = useState(false);
@@ -30,7 +29,7 @@ const ProfileStatus = (props) => {
     setUserStatus(e.target.value);
   };
 
-  return (
+  return props.isOwner ? (
     <div>
       {editMode && (
         <input
@@ -46,6 +45,8 @@ const ProfileStatus = (props) => {
         </span>
       )}
     </div>
+  ) : (
+    <span>{userStatus || ""}</span>
   );
 };
 

@@ -31,7 +31,7 @@ const Profileinfo = (props) => {
           alt="avatar"
         /> <br/>
         {props.isOwner && <input onChange={addFile} type={"file"}/>}
-        <ProfileStatus updateUserStatus={props.updateUserStatus} userStatus={props.userStatus} />
+        <ProfileStatus isOwner={props.isOwner} updateUserStatus={props.updateUserStatus} userStatus={props.userStatus} />
         <br/>
         <div>Место работы:
           {props.userProfile.lookingForAJob
